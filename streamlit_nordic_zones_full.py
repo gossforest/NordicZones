@@ -64,7 +64,7 @@ Lap,Time,HR,RPE
 |------|---------|----------------|
 | **Z1 Recovery** |  &lt; 85 % LTHR | Easy blood‑flow, technique focus |
 | **Z2 Endurance** | 85‑89 % LTHR | Aerobic base, long skis |
-| **Z3 Tempo** | 89‑94 % | “Grey” middle – use sparingly |
+| **Z3 Tempo** | 89‑94 % | “Sweet-spot” below LT; sustainable ~40 min |
 | **Z4 Threshold** | 94‑100 % | Race‑pace stamina |
 | **Z5 Speed / VO₂** | &gt; 100 % | Short sprints, max output |
 
