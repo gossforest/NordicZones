@@ -1,5 +1,5 @@
 streamlit>=1.32
 pandas
 numpy
-matplotlib
-fitdecode
+matplotlib>=3.7
+fitdecode>=0.10
